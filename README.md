@@ -1,6 +1,6 @@
 # Ebook - IA - Missão Python
 
-![capapython.png](capapython.png)
+![capapython.png](assets/capapython.png)
 
 ## **Projeto - Ebook impulsionado por IA**
 
